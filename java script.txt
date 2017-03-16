@@ -1,0 +1,43 @@
+https://apis.google.com/js/plusone.js
+//pagead2.googlesyndication.com/pagead/js/google_top_exp.js
+//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js
+http://yourjavascript.com/0015517398/whatsapp-button.js
+https://assets.pinterest.com/js/pinmarklet.js
+//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
+//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js
+https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+http://connect.facebook.net/en_US/all.js
+http://platform.twitter.com/widgets.js
+http://static.addtoany.com/menu/page.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/image-minima.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/prisma.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/view-image.js = finish
+https://cdn.rawgit.com/Arlina-Design/redvision/master/prism.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/Related-post.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/timeagorev.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/image-viewlyco.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/imageload.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/masonry.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/unlipage.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/page-scroll1.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/redvision/master/page-scroll2.js
+https://cdn.rawgit.com/Arlina-Design/redvision/master/timeago.js = FINISH
+https://cdn.rawgit.com/Arlina-Design/FlamingTree/master/unlimitedpage.js
+https://cdn.rawgit.com/Arlina-Design/FlamingTree/master/highlightpro.js
+https://cdn.rawgit.com/Arlina-Design/frame/master/owl-carouselfix.js
+https://cdn.rawgit.com/Arlina-Design/nubie/master/shorturl.js
+https://cdn.rawgit.com/Arlina-Design/nubie/master/highlight2.js
+https://cdn.rawgit.com/ardezign/arina-dezign/d236960d/desktop.js
+https://cdn.rawgit.com/ardezign/arina-dezign/06595b4e/desktop1.js
+http://"+t+".disqus.com/embed.js
+https://pf-cdn.printfriendly.com/ssl/main.js
+http://cdn.printfriendly.com/printfriendly.js
+https://cdn.ampproject.org/v0.js
+//&quot;+disqus_shortname+&quot;.disqus.com/blogger_index.js
+//&quot;+disqus_shortname+&quot;.disqus.com/blogger_item.js
+//&quot;+disqus_shortname+&quot;.disqus.com/count.js
+
