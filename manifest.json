@@ -1,0 +1,39 @@
+
+{
+  "name": "SkinDezign.com",
+  "short_name": "SD",
+  "start_url": "https://www.skindezign.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#FF1744",
+  "description": "Blog yang membahas tentang tutorial, trik, dan widget Blogger juga SEO, Internet, Sofware dan Komputer.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s48/sd5.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s72/sd5.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s96/sd5.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s144/sd5.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s168/sd5.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s192/sd5.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VHBJfH5xnfk/W25ubomhYiI/AAAAAAAABjc/kg1GlPucRDMrfyAn7pID-r4pvVtGN8tUwCLcBGAs/s512/sd5.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
