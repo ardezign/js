@@ -24,7 +24,7 @@ section { padding: 70px 0; }
 aside { padding: 45px 0; }
 footer { padding: 45px; padding-top: 40px; background-color: #212121; }
 footer h4, footer h6 { color:#fff; }
-#footer {background:#00C853;}
+#footer {background:#62c588;}
 #footer a: {color:#fff;}
 .navbar-default { border-color: rgba(35,35,35,.05); background-color: #fff; -webkit-transition: all .4s; -moz-transition: all .4s; transition: all .4s; border-bottom:1px solid #e0e0e3; }
 .navbar-brand { -webkit-transition: padding .2s ease-in; -moz-transition: padding .2s ease-in; transition: padding .2s ease-in; }
@@ -48,7 +48,7 @@ footer h4, footer h6 { color:#fff; }
 .navbar-default .navbar-brand:focus { color: #001A33; }
 .navbar-default .nav > li>a, .navbar-default .nav>li>a:focus { color: #001A33; padding-left: 5px; padding-top: 21px; letter-spacing: 1.1px; }
 .navbar-default .nav > li>a:hover, .navbar-default .nav>li>a:focus:hover { color: #001A33; }
-#topNav { background:#00C853; } }
+#topNav { background:#62c588; } }
 header { position: relative; min-height: auto; text-align: center; color: #001A33; width: 100%; background-color: #fff; }
 header .header-content { position: relative; width: 100%; padding: 100px 15px; text-align: center; z-index: 2; }
 header .header-content .inner h1 { margin-top: 0; margin-bottom: 0; }
